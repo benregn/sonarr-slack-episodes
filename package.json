@@ -1,0 +1,25 @@
+{
+  "name": "sonarr-slack-episodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinoshauer/sonarr-slack-episodes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dinoshauer/sonarr-slack-episodes/issues"
+  },
+  "homepage": "https://github.com/Dinoshauer/sonarr-slack-episodes#readme",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "botkit": "0.0.15",
+    "moment": "^2.12.0"
+  }
+}
