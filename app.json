@@ -1,7 +1,7 @@
 {
   "name": "Node.js Sample",
   "description": "A slack webhook that will read your Sonarr calendar",
-  "repository": "https://github.com/Dinoshauer/sonarr-slack-episodes",
+  "repository": "https://github.com/benregn/sonarr-slack-episodes",
   "logo": "https://www.emojibase.com/resources/img/emojis/apple/x1f4fa.png.pagespeed.ic.kCybhp_BgU.png",
   "keywords": ["node", "botkit", "slack", "sonarr", "slash-command"],
   "env": {
